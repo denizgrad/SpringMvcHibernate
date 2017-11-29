@@ -2,7 +2,6 @@ package com.sprhib.dao;
 
 import java.util.List;
 
-import org.hibernate.FlushMode;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;

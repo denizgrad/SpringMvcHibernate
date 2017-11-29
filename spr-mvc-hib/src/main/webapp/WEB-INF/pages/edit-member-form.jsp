@@ -23,7 +23,6 @@
 			<form:select id="teams" cssClass="form-control" path="teamIds" 
 				items="${teamList}" itemLabel="name" itemValue="id" />
 			<form:errors path="teams" cssClass="help-inline" />
-			
 		</div>		
 		<button type="submit" class="btn btn-primary">Submit</button>
 	</form:form>
